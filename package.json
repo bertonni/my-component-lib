@@ -1,7 +1,7 @@
 {
   "name": "my-great-component-lib",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "./dist/my-great-component-lib.cjs",
   "module": "./dist/my-great-component-lib.es.js",
