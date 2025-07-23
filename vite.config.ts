@@ -9,8 +9,8 @@ export default defineConfig({
   build: {
     lib: {
       entry: "./src/index.ts",
-      name: "MyComponentLib",
-      fileName: "my-component-lib",
+      name: "MyGreatComponentLib",
+      fileName: "my-great-component-lib",
       formats: ["es", "cjs"],
     },
     rollupOptions: {

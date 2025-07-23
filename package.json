@@ -1,10 +1,10 @@
 {
-  "name": "my-component-lib",
+  "name": "my-great-component-lib",
   "private": false,
   "version": "1.0.0",
   "type": "module",
-  "main": "./dist/my-component-lib.cjs",
-  "module": "./dist/my-component-lib.es.js",
+  "main": "./dist/my-great-component-lib.cjs",
+  "module": "./dist/my-great-component-lib.es.js",
   "types": "./dist/index.d.ts",
   "files": [
     "dist"
