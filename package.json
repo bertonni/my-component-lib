@@ -3,8 +3,8 @@
   "private": false,
   "version": "1.0.3",
   "type": "module",
-  "main": "./dist/my-great-component-lib.cjs",
-  "module": "./dist/my-great-component-lib.js",
+  "main": "./dist/my-great-component-lib.js",
+  "module": "./dist/my-great-component-lib.cjs",
   "types": "./dist/index.d.ts",
   "files": [
     "dist"

@@ -11,7 +11,7 @@ export default defineConfig({
       entry: "./src/index.ts",
       name: "MyGreatComponentLib",
       fileName: "my-great-component-lib",
-      formats: ["cjs"],
+      formats: ["es", "cjs"],
     },
     rollupOptions: {
       external: ["react", "react-dom"],
