@@ -4,7 +4,7 @@
   "version": "1.0.2",
   "type": "module",
   "main": "./dist/my-great-component-lib.cjs",
-  "module": "./dist/my-great-component-lib.es.js",
+  "module": "./dist/my-great-component-lib.js",
   "types": "./dist/index.d.ts",
   "files": [
     "dist"
